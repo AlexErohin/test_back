@@ -1,0 +1,24 @@
+[
+  {
+    "year": "2021",
+    "dev_code": "Магаданрыба",
+    "rayon_code": "ЗАО",
+    "fish_code": "краб синий",
+    "qouta_type": "",
+    "error": "",
+    "val": "33",
+    "code": "59eae3d6-6c3b-4f87-b940-882cd1b0ad3f"
+  },
+  {
+    "year": "2020",
+    "dev_code": "РРПК",
+    "rayon_code": "ЗАО",
+    "fish_code": "краб синий",
+    "qouta_type": "",
+    "error": "",
+    "val": "33666",
+    "val_spend": "777",
+    "val_end": "99",
+    "code": "a7040e9b-8974-4933-a426-fc0ab36f6edc"
+  }
+]

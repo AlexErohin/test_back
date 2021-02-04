@@ -1,0 +1,63 @@
+[
+  {
+    "code": "3052",
+    "quote_vcode": "2021x44264x261x847xинвест",
+    "name": "алсей 412021410338 краб синий з.беринг. алестар - инвест 2021 - 100 т.",
+    "num": "111111",
+    "year": "2021",
+    "qouta_type": "инвест",
+    "ship_name": "алсей",
+    "ship_code": "qqq",
+    "dev_name": "алестар - инвест",
+    "dev_code": 44264,
+    "rayon_name": "з.беринг.",
+    "rayon_code": 261,
+    "fish_name": "краб синий",
+    "fish_code": 847,
+    "val_spend": "",
+    "val": 100,
+    "val_end": 100,
+    "color": "",
+    "date_in": "10.02.2021",
+    "date_end": "16.05.2021",
+    "ships_code": "241",
+    "date_approve": "",
+    "users_approve_code": "",
+    "users_approve_name": "",
+    "status": "",
+    "cnt": "",
+    "msg": null,
+    "error": ""
+  },
+  {
+    "error": "",
+    "num": "123",
+    "ship_code": "qqq",
+    "date_in": "03.02.2021",
+    "val": "123",
+    "code": "fe89f048-9fa8-4d98-b439-ab3cd706d8af"
+  },
+  {
+    "error": "",
+    "num": "6666",
+    "ship_code": "eeee",
+    "date_in": "20.02.2021",
+    "val": "345t",
+    "code": "e2aa3e99-463b-4085-943e-000435cde912"
+  },
+  {
+    "year": "2020",
+    "dev_code": "РРПК",
+    "rayon_code": "ЗАО",
+    "fish_code": "краб синий",
+    "qouta_type": "",
+    "error": "",
+    "val": "11",
+    "code": "76b744dc-0443-4656-80fe-bea6eaf3b58f",
+    "ship_code": "eeee",
+    "num": "36345634",
+    "date_in": "21.02.2021",
+    "val_spend": "35634",
+    "val_end": "563456"
+  }
+]
